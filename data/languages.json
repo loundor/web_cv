@@ -1,0 +1,25 @@
+{
+  "languages": [
+    {
+      "code": "fr",
+      "name": "Français",
+      "flag": "/assets/fr.svg",
+      "default": true,
+      "notTranslated": "Traduction non disponible"
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "flag": "/assets/en.svg",
+      "default": false,
+      "notTranslated": "Translation not available"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch",
+      "flag": "/assets/de.svg",
+      "default": false,
+      "notTranslated": "Übersetzung nor nicht verfügbar"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "sections": [
+    {
+      "id": "willkommen",
+      "type": "home",
+      "title": "Willkommen",
+      "icon": "fas fa-home",
+      "enabled": true
+    },
+    {
+      "id": "ueber-mich",
+      "type": "about",
+      "title": "Über mich",
+      "icon": "fas fa-user",
+      "enabled": true
+    },
+    {
+      "id": "erfahrungen",
+      "type": "experience",
+      "title": "Erfahrungen",
+      "icon": "fas fa-briefcase",
+      "enabled": true
+    },
+    {
+      "id": "ausbildung",
+      "type": "education",
+      "title": "Ausbildung",
+      "icon": "fas fa-graduation-cap",
+      "enabled": true
+    },
+    {
+      "id": "portfolio",
+      "type": "portfolio",
+      "title": "Portfolio",
+      "icon": "fas fa-folder-open",
+      "enabled": true
+    },
+    {
+      "id": "blog",
+      "type": "blog",
+      "title": "Blog",
+      "icon": "fas fa-blog",
+      "enabled": true
+    },
+    {
+      "id": "kontakt",
+      "type": "contact",
+      "title": "Kontakt",
+      "icon": "fas fa-envelope",
+      "enabled": true
+    }
+  ]
+}

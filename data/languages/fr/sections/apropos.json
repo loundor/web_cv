@@ -1,0 +1,59 @@
+{
+  "title": "À propos de moi",
+  "intro": "Passionné par l'informatique, l'électronique et les technologies en général, j'accorde une importance particulière à la qualité logicielle. Dans mon travail, je m'efforce de concilier élégance du code et optimisation, avec une vigilance constante pour la gestion des ressources (CPU/RAM). Utilisant principalement le C/C++, j'aime apprendre et relever de nouveaux défis, tout en restant ouvert aux évolutions technologiques pour produire un code toujours plus fiable.",
+  "personalInfo": {
+    "Âge": "38",
+    "Adresse": "Ueberstrass, 68580",
+    "Pays": "France",
+    "Email": "loundor@gmail.com",
+    "Téléphone": "+33 778 820 025",
+    "Disponibilité": "A partir de mi-mai 2026"
+  },
+  "expertises": [
+    {
+      "icon": "fas fa-microchip",
+      "title": "Systèmes Embarqués",
+      "description": "Développement firmware sur ARM, STM32, ESP32. Programmation bare-metal et RTOS."
+    },
+    {
+      "icon": "fab fa-linux",
+      "title": "Linux Embarqué",
+      "description": "Drivers kernel, Device Tree, Yocto/Buildroot. BSP custom et U-Boot."
+    },
+    {
+      "icon": "fas fa-network-wired",
+      "title": "Protocoles",
+      "description": "I2C, SPI, UART, CAN bus. TCP/IP, MQTT, Modbus. Debug matériel."
+    },
+    {
+      "icon": "fas fa-shield-alt",
+      "title": "Sécurité",
+      "description": "Bootloaders sécurisés, cryptographie. Mise à jour OTA, secure boot."
+    },
+    {
+      "icon": "/assets/ZephyrOs.svg",
+      "title": "Zephyr OS",
+      "description": "RTOS scalable pour IoT et systèmes embarqués. Support multi-architectures et écosystème moderne."
+    },
+    {
+      "icon": "fas fa-cube",
+      "title": "Buildroot",
+      "description": "Build system pour Linux embarqué. Création d'images système légères et optimisées."
+    },
+    {
+      "icon": "fas fa-project-diagram",
+      "title": "Systèmes Hétérogènes",
+      "description": "Architecture multi-cœurs asymétriques (AMP). CPU + GPU + DSP, communication inter-processeurs."
+    },
+    {
+      "icon": "/assets/C_Programming_Language.svg",
+      "title": "C / C++",
+      "description": "Programmation bas niveau, optimisation mémoire et performance. Standards C99/C11/C++17."
+    },
+    {
+      "icon": "fas fa-terminal",
+      "title": "Assembleur",
+      "description": "ARM Assembly, optimisation critique. Startup code, gestion interruptions, code temps réel."
+    }
+  ]
+}

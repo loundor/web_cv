@@ -1,0 +1,46 @@
+{
+  "sections": [
+    {
+      "id": "home",
+      "title": "Home",
+      "icon": "fas fa-home",
+      "enabled": true
+    },
+    {
+      "id": "about",
+      "title": "About",
+      "icon": "fas fa-user",
+      "enabled": true
+    },
+    {
+      "id": "experience",
+      "title": "Experience",
+      "icon": "fas fa-briefcase",
+      "enabled": true
+    },
+    {
+      "id": "education",
+      "title": "Education",
+      "icon": "fas fa-graduation-cap",
+      "enabled": true
+    },
+    {
+      "id": "portfolio",
+      "title": "Portfolio",
+      "icon": "fas fa-folder-open",
+      "enabled": true
+    },
+    {
+      "id": "blog",
+      "title": "Blog",
+      "icon": "fas fa-blog",
+      "enabled": true
+    },
+    {
+      "id": "contact",
+      "title": "Contact",
+      "icon": "fas fa-envelope",
+      "enabled": true
+    }
+  ]
+}

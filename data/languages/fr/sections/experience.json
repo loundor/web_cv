@@ -1,0 +1,106 @@
+{
+  "title": "Expérience Professionnelle",
+  "items": [
+    {
+      "period": "2024 - Présent",
+      "position": "Développeur Système & Embarqué en bureau d'études",
+      "company": "Armadeus Systems",
+      "description": "Développement de modules et drivers Linux kernel pour périphériques. Implementation d'un module l'isolation CPU pour chargement de firmware sur un coeur dedie. Optimisation performances temps réel sur ARM Cortex-M4.",
+      "tasks": [
+	{
+	  "title": "Configuration et optimisation GPS",
+	  "description": "Mise en communication entre module GPS et système embarqué via I2C. Paramétrage avancé pour amélioration précision et rapidité de fix 3D. Etude electromagnétique pour réduction interférences.",
+	  "technologies": "Bash, initd, I2C, GPS, Socket, Oscilloscope, Logic Analyzer, Multimeter"
+	},
+        {
+          "title": "Driver ZephyrOS I2C pour SOC i.MX8MM",
+          "description": "Implementation d'un driver I2C sous ZephyrOS pour SoC i.MX8MM. Gestion des transferts, interruptions, configuration Device Tree.",
+          "technologies": "C, ZephyrOS, I2C, Device Tree"
+        },
+        {
+          "title": "Driver ZephyrOS PWM pour SOC i.MX8MM",
+          "description": "Implementation d'un driver PWM sous ZephyrOS pour SoC i.MX8MM. Gestion des signaux et des cycles, configuration Device Tree.",
+          "technologies": "C, ZephyrOS, PWM, Device Tree"
+        },
+	{
+	  "title": "Isolation CPU sur i.MX93",
+	  "description": "Implémentation d'un module Linux d'isolation CPU pour exécuter du un firmware sur coeur ARM-A dédié. Liberation et reimplantation de coeur sous linux, communication inter-coeurs. Developpement d'une memoire partagée simplifiée a l'utilisateur.",
+	  "technologies": "C, Linux Kernel, DeviceTree, ARM TrustZone, IPC, ZephyrOS, ARM Cortex-M4"
+	},
+	{
+	  "title": "Implementation d'une camera MIPI-CSI sur i.MX93",
+	  "description": "Fix des drivers NXP Linux pour le protocole MIPI-CSI. Configuration du contrôleur, gestion des flux vidéo, intégration V4L2. Test de performance et optimisation. Contribution Buildroot.",
+	  "technologies": "C, Linux Kernel, DeviceTree, MIPI-CSI, V4L2"
+	},
+	{
+	  "title": "Test et verification de devKit",
+	  "description": "Validation de la confirmite fonctionnelle des cartes devKit, rapport de bugs et suggestions d'ameliorations.",
+	  "technologies": "Oscilloscope, Logic Analyzer, Multimeter, KiCad, Bash, Python, Linux, Git"
+	},
+	{
+	  "title": "Implementation d'un runtime PLC Linux temps réel",
+	  "description": "Integration de PLC (Beremiz) en application Linux temps réel. Gestion des E/S, timing précis, interface utilisateur, cross-compilation. Tests de performance et fiabilité. Intégration Buildroot.",
+	  "technologies": "C, ARMv8 A, Linux, Cyclictest, Beremiz, OpenPLC, Python, Buildroot, Git, Kernel RT"
+	},
+	{
+	  "title": "Etude de developpement d'un runtime PLC sous ZephyrOS",
+	  "description": "Edute de fausabilite pour portage d'un runtime PLC sous ZephyrOS sur ARMv8 A. Analyse des contraintes temps réel, gestion des E/S, architecture logicielle.",
+	  "technologies": "C, ARM , ZephyOS, Linux, Git"
+	}
+      ]
+    },
+    {
+      "period": "2019 - 2022",
+      "position": "Gerant de société",
+      "company": "AlsaAmenagement",
+      "description": "Co-gerant d'une societe d'aménagement extérieur.",
+      "tasks": [
+        {
+          "title": "Mise en plans 3D gestion de projet, devis client, suivi chantier",
+          "description": "Développement de firmware pour capteurs connectés WiFi/BLE. Protocole MQTT, gestion énergie, stockage NVS.",
+          "technologies": "C, ESP-IDF, MQTT, FreeRTOS"
+        }
+      ]
+    },
+    {
+      "period": "2016 - 2019",
+      "position": "Conseiller de vente",
+      "company": "Hornbach GmbH",
+      "description": "Conseil clientèle. Vente de matériaux de construction et outillage."
+    },
+    {
+      "period": "2013 - 2016",
+      "position": "Logisticien",
+      "company": "Swissport AG",
+      "description": "Gestion des opérations de chargement et déchargement des avions. Coordination avec les équipes au sol pour assurer la ponctualité des vols."
+    },
+    {
+      "period": "2005 - 2012",
+      "position": "Technico-commercial informatique",
+      "company": "AdequationWeb",
+      "description": "Maintenance préventive et corrective des équipements de sécurité. Intervention rapide sur pannes. Formation des utilisateurs aux bonnes pratiques.",
+      "tasks": [
+	{
+	  "title": "Support technique et commercial",
+	  "description": "Assistance technique aux clients. Vente de solutions informatiques adaptées aux besoins des entreprises.",
+	  "technologies": "Windows Server, Active Directory, Réseaux LAN/WAN"
+	},
+	{
+	  "title": "Maintenance et dépannage",
+	  "description": "Maintenance préventive et corrective des équipements informatiques. Intervention rapide sur pannes.",
+	  "technologies": "Windows, Linux, Matériel PC"
+	},
+	{
+	  "title": "Formation des utilisateurs",
+	  "description": "Formation des utilisateurs aux bonnes pratiques informatiques. Sensibilisation à la sécurité des données.",
+	  "technologies": "Office, Sécurité Informatique"
+	},
+	{
+	  "title": "Developpement de projets informatiques",
+	  "description": "Developpement d'une solution logiciels de gestion de temps pour analyse de productivité. Automatisation de tâches récurrentes.",
+	  "technologies": "Gestion de projet, Communication"
+	}
+      ]
+    }
+  ]
+}

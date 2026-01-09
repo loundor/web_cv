@@ -1,0 +1,40 @@
+{
+  "name": "Sebastien Tisserand",
+  "role": "System & Embedded Developer",
+  "photo": {
+    "type": "image",
+    "src": "/assets/photo.jpg",
+    "alt": "Profile photo",
+    "zoom": 1.5,
+    "offsetX": 0,
+    "offsetY": 10
+  },
+  "photoOptions": {
+    "icon": {
+      "type": "icon",
+      "iconClass": "fas fa-user-circle",
+      "comment": "Old configuration with icon"
+    }
+  },
+  "social": [
+    {
+      "platform": "facebook",
+      "url": "https://facebook.com",
+      "icon": "fab fa-facebook-f"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://linkedin.com/in/votreprofil",
+      "icon": "fab fa-linkedin-in"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/votreprofil",
+      "icon": "fab fa-github"
+    }
+  ],
+  "cv": {
+    "downloadUrl": "#",
+    "buttonText": "Download CV"
+  }
+}

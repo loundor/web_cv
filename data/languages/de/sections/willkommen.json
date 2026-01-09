@@ -1,0 +1,17 @@
+{
+  "name": "Sébastien TISSERAND",
+  "title": "System und Embedded-Entwickler",
+  "subtitle": "Linux Kernel & Echtzeit (ZephyrOS)",
+  "buttons": [
+    {
+      "text": "Kontaktieren Sie mich",
+      "link": "#kontakt",
+      "class": "primary"
+    },
+    {
+      "text": "Meine Projekte ansehen",
+      "link": "#portfolio",
+      "class": "secondary"
+    }
+  ]
+}

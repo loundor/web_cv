@@ -1,0 +1,28 @@
+{
+  "title": "Contact",
+  "heading": "Comment puis-je vous aider ?",
+  "intro": "N'hésitez pas à me contacter pour discuter de vos projets embarqués, IoT ou systèmes temps réel.",
+  "info": [
+    {
+      "icon": "fas fa-map-marker-alt",
+      "label": "Adresse",
+      "value": "Ueberstrass, France"
+    },
+    {
+      "icon": "fas fa-envelope",
+      "label": "Email",
+      "value": "loundor@gmail.com"
+    },
+    {
+      "icon": "fas fa-phone",
+      "label": "Téléphone",
+      "value": "+33 778 820 025"
+    },
+    {
+      "icon": "fas fa-check-circle",
+      "label": "Disponibilité",
+      "value": "Disponible à partir de mi-mai 2026",
+      "available": true
+    }
+  ]
+}

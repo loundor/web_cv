@@ -1,0 +1,29 @@
+{
+  "title": "Blog",
+  "articles": [
+    {
+      "date": "15 Jan 2026",
+      "title": "Optimisation mémoire sur systèmes embarqués",
+      "excerpt": "Techniques avancées pour réduire l'empreinte mémoire sur microcontrôleurs avec ressources limitées...",
+      "link": "#"
+    },
+    {
+      "date": "08 Jan 2026",
+      "title": "Driver Linux : Guide complet I2C",
+      "excerpt": "Développement pas à pas d'un driver kernel Linux pour capteur I2C avec Device Tree et DMA...",
+      "link": "#"
+    },
+    {
+      "date": "02 Jan 2026",
+      "title": "ZephyrOS : Gestion des priorités",
+      "excerpt": "Comprendre et implémenter correctement la gestion des priorités dans ZephyrOS pour éviter les problèmes...",
+      "link": "#"
+    },
+    {
+      "date": "28 Déc 2025",
+      "title": "Sécurité : Bootloader ECDSA",
+      "excerpt": "Implémentation d'un bootloader sécurisé avec vérification de signature ECDSA pour dispositifs IoT...",
+      "link": "#"
+    }
+  ]
+}

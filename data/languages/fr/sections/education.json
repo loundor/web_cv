@@ -1,0 +1,171 @@
+{
+  "title": "Formation",
+  "education": [
+    {
+      "period": "2020 - 2026",
+      "degree": "42 - Master (RNCP Niveau 7)",
+      "school": "Expert en architecture informatique",
+      "description": "Spécialisation en systèmes temps réel, architectures matérielles et développement bas niveau.",
+      "projects": [
+	{
+	  "title": "Libft",
+	  "description": "Développement d'une bibliothèque de fonctions C standard réimplémentées. Gestion mémoire, chaînes de caractères, listes chaînées.",
+	  "technologies": "C"
+	},
+        {
+          "title": "Minishell",
+          "description": "Création d'un shell Unix minimaliste avec gestion des commandes, redirections, pipes et wildcards.",
+          "technologies": "C, Unix"
+        },
+        {
+          "title": "Cube3D",
+          "description": "Développement d'un moteur de rendu 3D basique utilisant la technique de raycasting. Gestion des textures, mouvements et collisions.",
+          "technologies": "C"
+        },
+	{
+	  "title": "Webserv",
+	  "description": "Implémentation d'un serveur web conforme aux standards HTTP/1.1. Gestion des requêtes, réponses, connexions multiples et CGI en mode asynchrone event-driven.",
+	  "technologies": "C++, Socket Unix"
+	},
+	{
+	  "title": "Inception of things",
+	  "description": "Orchestration et sécurisation d'un cluster Kubernetes (K8s) multi-nœuds. Déploiement d'applications conteneurisées avec Docker. Mise en place de CI/CD avec GitLab.",
+	  "technologies": "VMware, Docker, Kubernetes, GitLab CI/CD"
+	},
+	{
+	  "title": "ft_malloc",
+	  "description": "Réalisation d'un allocateur mémoire dynamique personnalisé. Gestion des blocs mémoire, fragmentation et performance.",
+	  "technologies": "C"
+	},
+	{
+	  "title": "ft_ls",
+	  "description": "Implémentation de la commande Unix 'ls' avec options avancées. Gestion des fichiers, répertoires, affichage formaté et optimisation.",
+	  "technologies": "C, Unix"
+	},
+	{
+	  "title": "Push_swap",
+	  "description": "Développement d'un algorithme de tri optimisé utilisant des piles et un ensemble limité d'opérations. Analyse de complexité et performance.",
+	  "technologies": "C"
+	},
+	{
+	  "title": "Phylosophers",
+	  "description": "Implémentation du problème des philosophes mangeurs avec gestion des threads et synchronisation. Utilisation de mutex et sémaphores pour éviter les conditions de course et les interblocages.",
+	  "technologies": "C, POSIX Threads"
+	},
+	{
+	  "title": "ft_fdf",
+	  "description": "Création d'un visualiseur de cartes en 3D à partir de fichiers de données. Parsing, gestion des projections, transformations et rendu graphique couleur en fonction des altitudes.",
+	  "technologies": "C, MiniLibX"
+	},
+	{
+	  "title": "libasm",
+	  "description": "Réalisation d'une bibliothèque en assembleur x86-64 réimplémentant des fonctions standard C. Optimisation des performances et gestion des appels système.",
+	  "technologies": "C, Assembly, x86-64"
+	},
+	{
+	  "title": "KFS 1 -> 4",
+	  "description": "Développement d'un système d'exploitation minimaliste : de l'amorçage (boot) à la gestion du multitâche, implémentant les structures fondamentales de l'architecture x86 (GDT, IDT, Pagination, MMU) ainsi que la gestion des interruptions matérielles (PIT/Timer).",
+	  "technologies": "C, Assembly, Architecture i386"
+	},
+	{
+	  "title": "ft_ssl_md5",
+	  "description": "Implémentation des algorithmes de hachage MD5, SHA-256 et Whirlpool. Gestion des entrées/sorties, options en ligne de commande et traitement des données.",
+	  "technologies": "C, Linux, Cryptographie"
+	},
+	{
+	  "title": "rainfall & override",
+	  "description": "Cybersecurite : Analyse de vulnérabilités et exploitation de failles de sécurité dans des applications web et systèmes. Utilisation d'outils de pentesting et développement d'exploits personnalisés. Recherche en sécurité offensive.",
+	  "technologies": "Linux, Bash, C, Python, ASM"
+	},
+	{
+	  "title": "ft_containers",
+	  "description": "Réalisation de conteneurs de données (vector, map, stack) en C++ conformes aux standards STL. Gestion de la mémoire, itérateurs et algorithmes.",
+	  "technologies": "C++"
+	},
+	{
+	  "title": "ft_ping",
+	  "description": "Développement d'une version simplifiée de la commande 'ping' utilisant les sockets brutes. Envoi et réception de paquets ICMP, calcul des temps de réponse et statistiques.",
+	  "technologies": "C, Sockets Unix"
+	},
+	{
+	  "title": "Transcendence",
+	  "description": "Développement d'un jeu vidéo multijoueur en réseau avec rendu 3D. Gestion des entités, physique, réseau et interface utilisateur.",
+	  "technologies": "Node.js, Nest.js, TypeScript, Three.js, PostgreSQL, Bash"
+	}
+      ]
+    },
+    {
+      "period": "2010 - 2012",
+      "degree": "BTS Informatique de gestion Option développeur d'applications",
+      "school": "Université de Sciences",
+      "description": "Fondamentaux en programmation, algorithmique et systèmes d'exploitation. Formation approfondie en C/C++, structures de données et architecture système.",
+      "projects": [
+	{
+	  "title": "Gestionnaire de bibliothèque",
+	  "description": "Application de gestion de bibliothèque avec interface graphique. Fonctionnalités d'ajout, suppression, recherche et emprunt de livres.",
+	  "technologies": "Visual Basic, Oracle DB"
+	},
+        {
+          "title": "Chat serveur-client",
+          "description": "Developpement d'une application de chat en temps réel avec architecture client-serveur. Gestion des connexions multiples et des messages.",
+          "technologies": "C#"
+        }
+      ]
+    },
+        {
+      "period": "2008 - 2010",
+      "degree": "BAC Professionnel Commerce",
+      "school": "IRFA EST",
+      "description": "Formation en techniques de vente, gestion de la relation client et marketing. Développement de compétences en communication et négociation."
+    }
+  ],
+  "skills": [
+    {
+      "name": "C",
+      "level": 90
+    },
+{
+      "name": "C++",
+      "level": 80
+    },
+    {
+      "name": "ARM (STM32, ESP32)",
+      "level": 77
+    },
+    {
+      "name": "RTOS (ZephyrOS)",
+      "level": 70
+    },
+    {
+      "name": "Linux Kernel & Drivers",
+      "level": 70
+    },
+    {
+      "name": "Des barres juste pour faire joli",
+      "level": 100
+    }
+  ],
+  "technologies": [
+    "C",
+    "C++",
+    "Python",
+    "ARM",
+    "STM32",
+    "ESP32",
+    "ZephyrOS",
+    "Linux",
+    "Buildroot",
+    "I2C",
+    "SPI",
+    "CAN",
+    "PWN",
+    "MIPI",
+    "MQTT",
+    "Git",
+    "Docker",
+    "Kubernetes",
+    "Valgrind",
+    "GDB",
+    "OpenOCD"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Kontakt",
+  "heading": "Wie kann ich Ihnen helfen?",
+  "intro": "Zögern Sie nicht, mich zu kontaktieren, um Ihre eingebetteten Projekte, IoT oder Echtzeitsysteme zu besprechen.",
+  "info": [
+    {
+      "icon": "fas fa-map-marker-alt",
+      "label": "Adresse",
+      "value": "Ueberstrass, Frankreich"
+    },
+    {
+      "icon": "fas fa-envelope",
+      "label": "Email",
+      "value": "loundor@gmail.com"
+    },
+    {
+      "icon": "fas fa-phone",
+      "label": "Telefon/Natel/Handy",
+      "value": "+33 778 820 025"
+    },
+    {
+      "icon": "fas fa-check-circle",
+      "label": "Verfügbarkeit",
+      "value": "Verfügbar ab halb Mai 2026",
+      "available": true
+    }
+  ]
+}
