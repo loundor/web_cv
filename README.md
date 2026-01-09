@@ -2,6 +2,8 @@
 
 Site web one-page moderne et dynamique présentant un CV avec support multilingue complet (FR/EN/DE et autres).
 
+![Visualisation](./assets/exemple.png "Visualisation")
+
 ## 🚀 Démarrage Rapide
 
 ### Installation
