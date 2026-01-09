@@ -450,4 +450,5 @@ Tous les fichiers dans `sections/` sont optionnels. Si une section n'est pas tra
 - Ajouter un CMS pour éditer les JSON
 - Créer un générateur de CV PDF
 - Ajouter des graphiques de compétences interactifs
+
 En vrai j'y crois pas!!!
