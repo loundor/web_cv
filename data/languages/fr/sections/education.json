@@ -12,16 +12,21 @@
 	  "description": "Développement d'une bibliothèque de fonctions C standard réimplémentées. Gestion mémoire, chaînes de caractères, listes chaînées.",
 	  "technologies": "C"
 	},
-        {
-          "title": "Minishell",
-          "description": "Création d'un shell Unix minimaliste avec gestion des commandes, redirections, pipes et wildcards.",
-          "technologies": "C, Unix"
-        },
-        {
-          "title": "Cube3D",
-          "description": "Développement d'un moteur de rendu 3D basique utilisant la technique de raycasting. Gestion des textures, mouvements et collisions.",
-          "technologies": "C"
-        },
+  {
+    "title": "Minishell",
+    "description": "Création d'un shell Unix minimaliste avec gestion des commandes, redirections, pipes et wildcards.",
+    "technologies": "C, Unix"
+  },
+  {
+    "title": "Cube3D",
+    "description": "Développement d'un moteur de rendu 3D basique utilisant la technique de raycasting. Gestion des textures, mouvements et collisions.",
+    "technologies": "C"
+  },
+  {
+    "title": "Matt_Daemon",
+    "description": "Développement d'un démon UNIX conforme aux standards POSIX avec architecture client/serveur TCP sur socket non-bloquante. Implémentation du détachement de session, gestion rigoureuse des signaux, système de verrouillage (lockfile) et logging hiérarchisé. Intègre le chiffrement TLS/SSL, une authentification forte (SHA-256), un serveur HTTP de supervision ainsi qu'un client TUI réactif.",
+    "technologies": "C++, POSIX, Sockets Unix, OpenSSL, ncurses"
+  },
 	{
 	  "title": "Webserv",
 	  "description": "Implémentation d'un serveur web conforme aux standards HTTP/1.1. Gestion des requêtes, réponses, connexions multiples et CGI en mode asynchrone event-driven.",
